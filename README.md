@@ -1,3 +1,4 @@
 # rahulindolia-dempo
-This is my first repository 
-Author - rahul indolia
+This is my first repository. 
+<br>
+Author - Rahul Indolia
